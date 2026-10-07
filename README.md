@@ -3,6 +3,7 @@
 A Hidden Markov Model that infers the hidden health state of an aircraft engine from noisy sensor readings, predicts its Remaining Useful Life (RUL), and raises a failure warning before breakdown.
 
 ![App screenshot](docs/app_screenshot.png)
+![App screenshot2](docs/app_screenshot2.png)
 
 ## Problem
 Engines degrade over time, but their true health is not directly observable. Only noisy sensors (temperature, pressure, speed) are available. Unplanned failures are expensive and dangerous, so we want an early, interpretable warning.
